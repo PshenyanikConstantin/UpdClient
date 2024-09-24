@@ -1,0 +1,7 @@
+{
+	"ip_addres" : "127.0.0.1",
+	"port" : 8888,
+	"protocol_version" : 1,
+	"elements_amount" : 1000000,
+	"value" : 20.0
+}
